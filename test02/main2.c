@@ -7,3 +7,4 @@ int main(){
 	int n=multiply(2,3);
 	printf("result=%d\n",m+n);
 }
+
