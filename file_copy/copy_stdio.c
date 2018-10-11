@@ -17,6 +17,7 @@ int main() {
     if(feof(f)){
         printf("文件结束！");
     }
+    
     fclose(f);a
     fclose(f1);
     return 0;
